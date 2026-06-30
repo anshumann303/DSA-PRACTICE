@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,8 +42,13 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
