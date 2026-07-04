@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
