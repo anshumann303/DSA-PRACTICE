@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
