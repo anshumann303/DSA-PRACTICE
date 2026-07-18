@@ -19,6 +19,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
