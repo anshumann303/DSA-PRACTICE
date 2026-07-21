@@ -84,6 +84,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -91,4 +92,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
