@@ -18,12 +18,14 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -84,6 +86,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
