@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -59,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0796-rotate-string) |
