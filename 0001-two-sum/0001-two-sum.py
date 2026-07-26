@@ -1,9 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        visited = {}
-        for i, num in enumerate(nums):
-            rem = target - num
-            if rem in visited:
-                return [visited[rem], i]
-            visited[num] = i
-        
+        n = len(nums)
+        hash_map ={}
+
+        for i in range(0,n):
+            remaining = target - nums[i]
+
+            if remaining in hash_map:
+                return [hash_map[remaining],i]
+            else:
+                hash_map[nums[i]] = i
