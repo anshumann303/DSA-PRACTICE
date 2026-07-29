@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -111,4 +113,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
