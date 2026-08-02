@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
