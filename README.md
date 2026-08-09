@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
