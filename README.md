@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -74,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
