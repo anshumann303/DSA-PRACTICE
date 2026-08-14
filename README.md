@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -131,12 +133,14 @@
 | [0005-longest-palindromic-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -159,4 +163,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
