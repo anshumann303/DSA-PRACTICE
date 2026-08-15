@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshumann303/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0136-single-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshumann303/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
