@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshumann303/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -169,12 +173,19 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
