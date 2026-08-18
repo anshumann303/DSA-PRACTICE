@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0049-group-anagrams) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Bit Manipulation
