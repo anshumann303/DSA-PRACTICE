@@ -51,6 +51,7 @@
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0076-minimum-window-substring](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
