@@ -53,6 +53,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0136-single-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshumann303/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/anshumann303/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshumann303/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2029-stone-game-ix) |
+| [2351-first-letter-to-appear-twice](https://github.com/anshumann303/DSA-PRACTICE/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
